@@ -7,102 +7,99 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Omar Bahgat
+    tagline: Robotics Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: omar@bahgat.de
+    phone: +4917684163392
+    website: omar.bahgat.de #do not add http://
+    linkedin: OBahgat
 
     languages:
-      - idiom: English
+      - idiom: Arabic
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Professional C1
 
     interests:
-      - item: Climbing
+      - item: Crossfit
         link:
 
-      - item: Snowboarding
+      - item: Soccer
         link:
 
-      - item: Cooking
+      - item: Physics
+        link:
+        
+      - item: Space applications
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       Experienced Test Developer with a demonstrated history of working in the industrial
+       automation. Skilled in Java, Matlab and Python Strong quality assurance
+       professional with a Master of Automation and Robotics focused in Mechatronics, Robotics, and Automation Engineering from University of Dortmund.
+       You can also [download this free resume/CV template here]().
+     
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Automation and Robotics
+      university: University of Dortmund
+      time: Sep 2012 - Oct 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        The M.Sc. Automation & Robotics Program is interdisciplinary and convers all relevant areas
+        which contribute to this field.
+        Specializing in major Robotics, a lot of theoritical experiences were gathered in areas such as
+        control theory, computer vision and robots as mechatronic systems.
+        In addition to the practical experiences that were gathered through participating in the
+        following projects:
+          - Project group: Controller design for Kuka youbot robotic arm (role : group leader)
+          - Project group: Object tracking with computer vision using Matlab
+          
+    - degree: BSc in MEchatronics
+      university: German University in Cairo
+      time: Sep 2006 - Jun 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Projects:
+          - Bachelor project: Design a wall climbing robot/mechanism.
+          - Project group: Designing, Building, and Stabilizing an Unmanned Aerial Vehicle using
+            computer vision using C++ (open-CV), Tasks: Modeling, control and optimization.
+          - Project group: Design controller for auto-parking systems in C.
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Advanced Developer in Mechatronic tests.
+      time: March 2018 - Present
+      company: Kuka Robotics GmbH, Augsburg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Systemtests development for mechatronic systems and products:
+          - Cooperating in planning resources and capacities for the assigned projects.
+          - Developing the required tools for the Test-Framework.
+          - Creating specifications and test protocols for test cases.
+          - Implementing test scripts in Java/Matlab.
+          - Performing and evaluating tests.
+          - Documenting the tests and error tracking.
+          - Conducting reviews for the work implemented.
+          - Creating concepts for test automation and their implementation.
+          
+    - role: Engineering Consultant
+      time: Apr 2016 - Feb 2018
+      company: Alten GmbH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       External position at Kuka Deutschland GmbH in Augsburg
+       Mechatronic systemtest development:
+          - Developing the required tools for the Test-Framework.
+          - Implementing test scripts in Java/Matlab.
+          - Performing and evaluating tests.
+          - Conducting reviews for the work implemented.
+          - Documenting the tests and error tracking.
+          - Creating concepts for test automation and their implementation.
+
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
