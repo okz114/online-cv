@@ -91,8 +91,8 @@ experiences:
       time: Apr 2016 - Feb 2018
       company: Alten GmbH
       details: |
-       External position at Kuka Deutschland GmbH in Augsburg
-       Mechatronic systemtest development:
+        External position at Kuka Deutschland GmbH in Augsburg
+        Mechatronic systemtest development:
           - Developing the required tools for the Test-Framework.
           - Implementing test scripts in Java/Matlab.
           - Performing and evaluating tests.
@@ -112,7 +112,7 @@ experiences:
           - Evaluation and results comparison of the different fusion algorithms used.
           - Documentation of results for a scientific thesis.
           
-     - role: Internship
+    - role: Internship
       time: March 2014 - Sep 2014
       company: Ingolstadt, Germany
       details: |
