@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Omar Bahgat
@@ -62,7 +62,7 @@ education:
           - Project group: Controller design for Kuka youbot robotic arm (role : group leader)
           - Project group: Object tracking with computer vision using Matlab
           
-    - degree: BSc in MEchatronics
+    - degree: BSc in Mechatronics
       university: German University in Cairo
       time: Sep 2006 - Jun 2011
       details: |
