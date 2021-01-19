@@ -1,0 +1,19 @@
+{% assign nationality = site.data.data.sidebar.nationality %}
+{% if nationality %}
+<div class="nationality-container container-block">
+
+  <h2 class="container-block-title">
+    Nationality
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for nation in nationality %}
+    <li>
+      {{ nation.idiom }}
+      
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
